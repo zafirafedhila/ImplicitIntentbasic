@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="openweb">open web</string>
+    <string name="opencall">open call</string>
+    <string name="openmap">open map</string>
+</resources>
